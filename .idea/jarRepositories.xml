@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jfrog" />
+      <option name="name" value="jfrog" />
+      <option name="url" value="https://repo.yyrd.com/artifactory/yonyou-public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="yygov-yondif" />
+      <option name="name" value="yygov-yondif" />
+      <option name="url" value="https://repo.yyrd.com/artifactory/yygov-yondif/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="thirdparty-public-mvn-remote-cache" />
+      <option name="name" value="thirdparty-public-mvn-remote-cache" />
+      <option name="url" value="https://repo.yyrd.com/artifactory/thirdparty-public-mvn-remote-cache/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="yygov-3rdparty" />
+      <option name="name" value="yygov-3rdparty" />
+      <option name="url" value="https://repo.yyrd.com/artifactory/yygov-3rdparty-releases-local/" />
+    </remote-repository>
+  </component>
+</project>
